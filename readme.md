@@ -1,0 +1,1 @@
+Ceci est un bot pour le jeu Lethal Room que j'ai fais pour passer le temps, le code est éclaté mais c'est pas grave

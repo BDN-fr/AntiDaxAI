@@ -1,0 +1,2 @@
+- [ ] Meilleure détection des coins et des shields (photos plus grandes)
+- [ ] Trier les déplacements vers le centre de la grille même après avoir trié selon la longueur
